@@ -1,2 +1,2 @@
 # TJS_LOG
-TJS LOG Eake Easy To Hack
+We Modify TJS LOG To Make Easy To Hack
